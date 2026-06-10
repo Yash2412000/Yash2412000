@@ -39,7 +39,7 @@ Currently completing an **MSc in Data Science at the University of Bath** (gradu
 ## 💼 Experience
 
 **Business Intelligence Engineer** — MoneyBoxx Finance *(Oct 2023 – Sept 2025)*  
-Production ML risk pricing model across 10,000+ loan applications · SHAP explainability · ETL pipelines · Power BI/Tableau dashboards
+Production ML risk pricing model across 10,000+ loan applications · ETL pipelines · Power BI/Tableau dashboards · Redash Dashboards from the collection data generated in the inhouse app of MoneyBoxx Finance Limited called Mbcollect
 
 **Junior Associate Software Developer** — NA Sportz Interactive *(Jul 2022 – Jul 2023)*  
 Real-time scoring analytics and PostgreSQL stored procedures for IPL and F1 Fantasy platforms (KKR, Gujarat Titans, Rajasthan Royals)
