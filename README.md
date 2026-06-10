@@ -31,7 +31,7 @@ Currently completing an **MSc in Data Science at the University of Bath** (gradu
 |---|---|---|
 | **MSc Dissertation — MoE Financial Forecasting** | Mixture of Experts gating framework for financial time-series with SHAP explainability and Bayesian uncertainty quantification | PyMC · SHAP · Python |
 | **Bayesian Degradation Modelling** | Hierarchical Bayesian model for multi-sensor component degradation prediction via MCMC (NUTS) | NumPyro · JAX · MCMC |
-| **CNN Age & Gender Classification** | VGG-16 transfer learning on UTKFace (20k+ images) — 89.2% accuracy, MAE 5.9 years | TensorFlow · Python |
+| **CNN Age & Gender Classification** | VGG-16 transfer learning on UTKFace (20k+ images) — 88.19% accuracy, MAE 5.9 years | TensorFlow · Python |
 | **FIFA Match Outcome Prediction** | Ensemble ML model on 50+ years of historical data, 40% accuracy improvement over logistic baseline | XGBoost · Scikit-Learn |
 
 ---
